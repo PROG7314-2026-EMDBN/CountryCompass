@@ -17,7 +17,7 @@ By completing this activity, you should be able to:
 
 ## Resources
 
-- CountryCompass Repo -
+- CountryCompass Repo - https://github.com/PROG7314-2026-EMDBN/CountryCompass
 - The Country Compass H5P activity on Arc
 - Android Studio
 - An Android emulator or device with internet access
